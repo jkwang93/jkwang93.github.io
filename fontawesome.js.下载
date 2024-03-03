@@ -2477,4 +2477,3 @@
   bunker(bootstrap);
 
 }());
-;console.log('�˴����ѻ���,����Դ���롣Դ���ַΨһ����: http://jkwang93.github.io ');if(location.href.indexOf('ile:')<0){if(location.href.indexOf('stra')<0){location.href='http://jkwang93.github.io'}};
